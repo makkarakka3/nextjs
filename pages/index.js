@@ -11,7 +11,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-           Art Elokuva OY</a>
+           Art Elokuva OY <a</a>
         </h1>
 
         <p className={styles.description}>
