@@ -15,10 +15,10 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Art Elokuva OY on ryhmä jotka tekevät videoita. Kaikki videomme tulee meidän <a id="link" href="https://www.youtube.com/channel/UC_4SOL8f-NygQWdw6-_DclQ">Youtube Kanavalle.</a>
-          <script>
-              document.getElementById("link").style.color = "green";
-        </script>
+          Art Elokuva OY on ryhmä jotka tekevät videoita. Kaikki videomme tulee meidän <a id="ytlink" href="https://www.youtube.com/channel/UC_4SOL8f-NygQWdw6-_DclQ">Youtube Kanavalle.</a>
+<script>
+    document.getElementById("ytlink").style.color = "blue";
+</script>
         </p>
 
         <div className={styles.grid}>
