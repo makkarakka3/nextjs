@@ -15,8 +15,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Art Elokuva OY on ryhmä jotka tekevät videoita. Kaikki videomme tulee meidän <a href="https://www.youtube.com/channel/UC_4SOL8f-NygQWdw6-_DclQ"></a> YouTube kanavalle.
-          <code className={styles.code}>pages/index.js</code>
+          Art Elokuva OY on ryhmä jotka tekevät videoita. Kaikki videomme tulee meidän <a href="https://www.youtube.com/channel/UC_4SOL8f-NygQWdw6-_DclQ">Youtube Kanavalle.</a>
         </p>
 
         <div className={styles.grid}>
